@@ -1,0 +1,30 @@
+---------------------------------
+---------------------------------
+---------------------------------
+---------------------------------
+--------------------X------X^XXXX
+-------------XX-----XXXXX---+----
+---------X--XXXX----XXXXX||-!----
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX^
+----------------XXX-------------+
+----------------XXX-------------+
+-----------XX---XXX-------------+
+-----------XX-----X-------------!
+-----------XX-----TTTTTT---------
+-----------XX----------T-----XXXX
+-----------XX----------TXXXXXXXXX
+-----<XXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----<XXXXXXXXXXXXXXXXXXXXXXXXXXX
+------------XXXXXXXXXXXXXXXXXXXXX
+------------XXXXXXXXXXXXXXXXXXXXX
+------------XXXXXXXXXXXXXXXXXXXXX
+------------XXXXXXXXXXXXXXXXXXXXX
+------------XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+- -1
+X 0

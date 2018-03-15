@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{1a913106-0be0-4476-b0ce-2aa855072614}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;cnt;rtf;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="MFC">
+      <UniqueIdentifier>{da904ee8-7f59-4a6c-b3ff-b91b6fb6d0ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary">
+      <UniqueIdentifier>{df7aa532-3fdf-46a0-b3fc-8f5922e8d9e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary\Framework">
+      <UniqueIdentifier>{36119308-540a-4944-a668-b5fbb2ca66e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary\Framework\Objects">
+      <UniqueIdentifier>{9a9e6e1a-27b0-4889-b0e3-c51750753259}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary\Framework\Objects\Items">
+      <UniqueIdentifier>{012691a8-c5b8-4bf6-b7ff-72020a124f4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary\Framework\Objects\Minions">
+      <UniqueIdentifier>{9725c334-74f1-4610-86ca-ddb6b3181643}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary\Framework\Main">
+      <UniqueIdentifier>{73354156-9973-4a7b-b29d-3d8453e5e2c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary\Framework\UI">
+      <UniqueIdentifier>{0e1c65e0-2bb3-46d7-ba78-e8338d9b77b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary\Tr.%27s Framework">
+      <UniqueIdentifier>{7c41f559-93b9-4f96-8ae1-f0ad836b680f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Res\ball.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp0.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp10.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp3.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp4.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp5.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp6.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp7.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp8.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp9.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\center.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\continue.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Res\corner.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\eraser1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\eraser2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\eraser3.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\game.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\game.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\gamecurs.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\gameDoc.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\help.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\loading.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\ntutcsie.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\mygame.cpp" />
+    <ClCompile Include="Source\game.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\gameDoc.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\gameView.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MainFrm.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\StdAfx.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\Character.cpp">
+      <Filter>GameLibrary\Framework\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\Template.cpp">
+      <Filter>GameLibrary\Framework\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\framework.cpp">
+      <Filter>GameLibrary\Framework\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects.cpp">
+      <Filter>GameLibrary\Framework\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Tile.cpp">
+      <Filter>GameLibrary\Framework\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\audio.cpp">
+      <Filter>GameLibrary\Tr.%27s Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\gamelib.cpp">
+      <Filter>GameLibrary\Tr.%27s Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\UI\UI.cpp">
+      <Filter>GameLibrary\Framework\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\UI\Numbers.cpp">
+      <Filter>GameLibrary\Framework\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\coin.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\crate.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\bomb_pack.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\rope_pile.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\bomb.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\Rope.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\void.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\pot.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\rock.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\snake.cpp">
+      <Filter>GameLibrary\Framework\Objects\Minions</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\blood.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\arrow.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Framework\Objects\door.cpp">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\mygame.h" />
+    <ClInclude Include="Source\game.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\gameDoc.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\gameView.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\MainFrm.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Resource.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\StdAfx.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\Character.h">
+      <Filter>GameLibrary\Framework\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\Template.h">
+      <Filter>GameLibrary\Framework\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\framework.h">
+      <Filter>GameLibrary\Framework\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects.h">
+      <Filter>GameLibrary\Framework\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Tile.h">
+      <Filter>GameLibrary\Framework\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\audio.h">
+      <Filter>GameLibrary\Tr.%27s Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\gamelib.h">
+      <Filter>GameLibrary\Tr.%27s Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\UI\UI.h">
+      <Filter>GameLibrary\Framework\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\UI\Numbers.h">
+      <Filter>GameLibrary\Framework\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\coin.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\crate.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\bomb_pack.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\rope_pile.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\bomb.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\Rope.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\void.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\pot.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\rock.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\snake.h">
+      <Filter>GameLibrary\Framework\Objects\Minions</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\blood.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\arrow.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Framework\Objects\door.h">
+      <Filter>GameLibrary\Framework\Objects\Items</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Source\game.rc">
+      <Filter>MFC</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\bitmap3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00001.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Bitmaps\Character.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Class Materials\Game Framework\Game Framework v4.9 (Source Code - Windows)\Bitmaps\Character.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Class Materials\Game Framework\Game Framework v4.9 (Source Code - Windows)\Character.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
